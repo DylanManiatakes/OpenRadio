@@ -337,7 +337,3 @@ CJ1 v2.3 CRC|AES|DTMF
 - **DTMF**: analog DTMF Tx supported  
 
 ---
-
-### Next Steps
-
-Need sample USB‑Serial code, SDS encoding walkthrough, or Kotlin coroutines for event handling? Ping me and we’ll iterate! :rocket:
