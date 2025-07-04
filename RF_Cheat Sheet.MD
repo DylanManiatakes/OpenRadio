@@ -1,6 +1,6 @@
 # ComJot DMR Radio Module – Android API Cheat‑Sheet
 
-A condensed, developer‑friendly reference for the serial protocol that drives the ComJot CJ‑1 radio board inside certain Android‑based handsets.  
+A condensed, developer‑friendly reference for the serial protocol that drives the ComJot CJ‑1 radio board. 
 *(Firmware revision 2025‑04‑18; verified over USB‑UART @ 115 200 bps.)*
 
 ---
