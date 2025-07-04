@@ -31,7 +31,7 @@ None Yet
 ## 📚 Documentation
 
 - **RF Cheat Sheet**: Detailed serial protocol reference → [`RF_Cheat Sheet.MD`](RF_Cheat%20Sheet.MD)  
-- **API Docs**: Docs from the ComJot team → [`CJ1_API.PDF`](CJ1_API.PDF)   
+- **API Docs**: Docs from the ComJot team → [`CJ1_API.pdf`](CJ1_API.pdf)   
 
 ## 🏗 Contributing
 
