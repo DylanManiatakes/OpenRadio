@@ -8,33 +8,7 @@ Learn more about the device: https://tait-radio.com/comjot-cj-1/
 
 ## 🚀 Features
 
-- **Channel Management**  
-  - Configure DMR digital and FM analog channels  
-  - Manage talkgroups, color codes, CTCSS/DCS tones, and squelch settings
-
-- **Push-To-Talk (PTT) Control**  
-  - Hardware PTT support  
-  - Software PTT commands with customizable on/off sequences
-
-- **Event Monitoring**  
-  - Real-time RX/TX status events  
-  - Unsolicited event parsing (e.g., channel busy, SMS notifications)
-
-- **Short Message Service (SMS)**  
-  - Send and receive DMR SDS messages  
-  - UTF-16LE encoding support
-
-- **Analog DTMF Dialing**  
-  - On-air DTMF digit transmission  
-  - Customizable tone duration and inter-digit gap
-
-- **Audio & Gain Settings**  
-  - Adjust microphone gain and speaker volume  
-  - Power-save and repeater decoupling mode
-
-- **Cross-Platform Compatibility**  
-  - Android USB-host support  
-  - Open-source Kotlin/Java codebase
+None Yet
 
 ## 🛠 Getting Started
 
